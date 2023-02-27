@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joshua Vang, an <a href="https://www.linkedin.com/in/joshua-vang1/">IT Professional</a></h1>
+<h1>Hi, I'm Joshua Vang, an IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 

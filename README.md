@@ -3,8 +3,8 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jvang1/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jvang1/post-install-config)
+  - [osTicket: Prerequisites and Installation](https://github.com/JVang1/osticket-prerequisites-installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/JVang1/osticket-post-installation-configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jvang1/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jvang1/configure-ad)

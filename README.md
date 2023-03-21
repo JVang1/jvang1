@@ -2,7 +2,7 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b> Implementing a Help Desk Ticketing System (osTicket) using Microsoft Azure Virtual Machines </b>
   - [osTicket: Prerequisites and Installation](https://github.com/JVang1/osticket-prerequisites-installation)
   - [osTicket: Post-Installation Configuration](https://github.com/JVang1/osticket-post-installation-configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jvang1/ticket-lifecycle)

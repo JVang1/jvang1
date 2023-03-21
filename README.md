@@ -5,9 +5,6 @@
 - <b> Implementing a Help Desk Ticketing System (osTicket) using Microsoft Azure Virtual Machines </b>
   - [osTicket: Prerequisites and Installation](https://github.com/JVang1/osticket-prerequisites-installation)
   - [osTicket: Post-Installation Configuration](https://github.com/JVang1/osticket-post-installation-configuration)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jvang1/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jvang1/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
